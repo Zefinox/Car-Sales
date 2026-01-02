@@ -27,3 +27,10 @@ Brand Page
 * What type of engine and transmission is most evident?
 * What is the price action on car models?
 * What is the Income-to-Price ratio of their customers?
+
+
+
+
+
+!\["C:\\Users\\Zefia\\Desktop\\Data Analytics\\Car Sales Dashboard\\Car-Sales\\Dashboard Guidelines\\Main Page.png"]
+
