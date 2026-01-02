@@ -1,15 +1,12 @@
 # Car Sales Performance Report with PowerBI
 
 >[!NOTE]
-
 >Dataset is taken from Kaggle (Cleaned and Additional Information Added via DAX & M)
-
 >PowerBI pulls live data from Excel Sheet, please refresh data to update visual contents. 
 
 
 
 >[!NOTE]
-
 >This is a personal project showcasing my skills in Data Analytics and Storytelling.
 
 
