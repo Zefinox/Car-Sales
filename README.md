@@ -50,31 +50,31 @@
 
 1. Main Page (Can show high and low performers) 
 
-![Screenshot of MainPage](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Main%20Page.png)
+![Screenshot of MainPage](https://github.com/Zefinox/Car-Sales/blob/main/Images/Main%20Page.png)
 
 2a. Dealership (Sales Performance)
 
-![Screenshot of Dealership BM-1](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Dealership%20(Sales%20Performance).png)
+![Screenshot of Dealership BM-1](https://github.com/Zefinox/Car-Sales/blob/main/Images/Dealership%20(Sales%20Performance).png)
 
 2b. Dealership (Model \& Brand Trends)
 
-![Screenshot of Dealership BM-2](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Dealership%20(Model%20%26%20Brand%20Trends).png)
+![Screenshot of Dealership BM-2](https://github.com/Zefinox/Car-Sales/blob/main/Images/Dealership%20(Model%20%26%20Brand%20Trends).png)
 
 2c. Dealership (Client Information)
 
-![Screenshot of Dealership BM-3](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Dealership%20(Client%20Information).png)
+![Screenshot of Dealership BM-3](https://github.com/Zefinox/Car-Sales/blob/main/Images/Dealership%20(Client%20Information).png)
 
 3a. Brand (Top Models per Region)
 
-![Screenshot of Brand BM-1](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Brand%20(Top%20Models%20per%20Region).png)
+![Screenshot of Brand BM-1](https://github.com/Zefinox/Car-Sales/blob/main/Images/Brand%20(Top%20Models%20per%20Region).png)
 
 3b. Brand (Model Price Action) 
 
-![Screenshot of Brand BM-2](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Brand%20(Model%20Price%20Action).png)
+![Screenshot of Brand BM-2](https://github.com/Zefinox/Car-Sales/blob/main/Images/Brand%20(Model%20Price%20Action).png)
 
 3c. Brand (Income-to-Price Ratio)
 
-![Screenshot of Brand BM-3](https://github.com/Zefinox/Car-Sales/blob/main/Dashboard%20Guidelines/Brand%20(Income-to-Price%20Ratio).png)
+![Screenshot of Brand BM-3](https://github.com/Zefinox/Car-Sales/blob/main/Images/Brand%20(Income-to-Price%20Ratio).png)
 
 
 
